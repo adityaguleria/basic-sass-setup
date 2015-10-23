@@ -1,0 +1,12 @@
+{
+  "name": "listApp",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "express": "^3.0.0-alpha4",
+    "jade": "*",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.6.0"
+  }
+}
